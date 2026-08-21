@@ -3,9 +3,9 @@
   "version": "0.1.1",
   "channel": "stable",
   "minimum_hermes_version": "0.20.0",
-  "published_at": "2026-08-20T18:00:00Z",
+  "published_at": "2026-08-21T03:00:00Z",
   "package_url": "https://github.com/ochenstarik-ui/hermes-hub-releases/releases/download/v0.1.1/hermes-hub-0.1.1.zip",
-  "sha256": "7a57137a93ad6fba5961e5c24b5d871aed5944b037f974b6137c028a111ae756",
+  "sha256": "bbf7aa45b3ad520fc4104c1726db5e492019ad1519883a54433ec5d85c977e75",
   "release_notes_url": "https://github.com/ochenstarik-ui/hermes-hub-releases/releases/tag/v0.1.1",
   "changelog": "Hermes Hub v0.1.1 Release Candidate: Multi-Provider Router, Native Windows UI, Unified Health, Auto-Assigner, and Rollback Updater."
 }
